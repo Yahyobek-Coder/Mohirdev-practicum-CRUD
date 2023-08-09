@@ -1,0 +1,26 @@
+.option-btn{
+    display: block;
+    width: 100%;
+    margin-top: 1rem;
+    border-radius: .5rem;
+    font-size: 1rem;
+    text-transform: capitalize;
+    color:#000;
+    cursor: pointer;
+}
+.option-btn:hover
+{
+    transition: 0.2s;
+    color: #2980b9;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.buttons a{
+   margin: 20px;;
+}
